@@ -13,7 +13,6 @@ Short overview about which file contains what:
 * Traffic_Sign_Classifier.ipynb : contains my framework to train and test the data as Jupyter Notebook
 * NewImages : Random 8 images from internet in order to check the accuracy of new data on the trained model
 * Traffic_Sign_Classifier.html : Html version of my framework run on Jupyter Notebook
-* Validation_96 : My saved checkpoint that reaches %96 precision only by using LeNet architecture
 * ImagesForWriteUp : contains images that are attached to this markup file
 
 ---
