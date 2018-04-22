@@ -4,3 +4,9 @@ data
 models
 *.swp
 *.p
+CODEOWNERS
+checkpoint
+TrafficSignClassifier.data-00000-of-00001
+TrafficSignClassifier.index
+TrafficSignClassifier.meta
+traffic-signs-data
